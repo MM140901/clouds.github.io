@@ -39,6 +39,13 @@ body {
     animation: cloud 15s linear infinite;
 }
 
+.cloud1, .cloud2, .cloud3 {
+    width: 400px;
+    height: 300px; 
+    position: absolute;
+    animation-delay: -5s;
+}
+
 .cloud1{
     top: 45%;
     animation-delay: -5s;
