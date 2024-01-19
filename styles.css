@@ -72,7 +72,8 @@ body {
 
 p {
     position: absolute;
-    left: 75%;
+    left: 25%;
+    top: 70%;
     align-content: end;
     text-align: end;
 }
