@@ -47,17 +47,17 @@ body {
 }
 
 .cloud1{
-    top: 45%;
+    top: 35%;
     animation-delay: -5s;
 }
 
 .cloud2{
-    top: 35%;
+    top: 25%;
     animation-delay: 0s;
 }
 
 .cloud3{
-    top: 50%;
+    top: 40%;
     animation-delay: 5s;
 }
 
@@ -72,8 +72,9 @@ body {
 
 p {
     position: absolute;
-    left: 25%;
+    left: 20%;
     top: 70%;
     align-content: end;
     text-align: end;
+    color: white;
 }
